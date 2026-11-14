@@ -1,0 +1,17 @@
+
+# Ignore large datasets
+2_Advanced/jobs_data.parquet
+2_Advanced/job_data.pkl
+2_Advanced/jobs_data.csv
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+/1_Basics/
+/2_Advanced/
+
